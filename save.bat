@@ -5,5 +5,7 @@ echo "--------------------------------"
 git.exe add *.* 
 git.exe commit -am'save'
 git.exe push
+echo " "
+echo " "
 echo "fichier mis sur le serveur"
 echo "--------------------------"
